@@ -32,8 +32,11 @@ Masukkan diskon   : 5
 
 === HASIL PERHITUNGAN DISKON ===
 Harga Awal : 5000.0
+
 Diskon     : 5.0%
+
 Potongan Harga : 250.0
+
 Harga setelah diskon: 4750.0
 
 Nanti setelah itu akan muncul hasil diskonya.

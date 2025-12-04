@@ -9,9 +9,13 @@ Aplikasi ini merupakan sebuah proyek kolaborasi sederhana berbasis Python yang b
 FITUR UTAMA : program ini meminta input harga awal dari pengguna, kemudian memproses nilai tersebut menggunakan logika percabangan agar hasil perhitungan lebih akurat sesuai ketentuan diskon yang diberikan
 
 Panduan Instalasi :
+
 Pastikan Git sudah terinstall
+
 Buka Visual Studio Code
+
 Buka Folder tempat yang di inginkan untuk menyimpan repositori
+
 Buka Terminal pada VsCode.
 
 kemudian ketik "git clone https://github.com/wayne072177/Kelompok-4_2" di terminal.

@@ -31,6 +31,7 @@ Masukkan harga awal: 5000
 Masukkan diskon   : 5
 
 === HASIL PERHITUNGAN DISKON ===
+
 Harga Awal : 5000.0
 
 Diskon     : 5.0%

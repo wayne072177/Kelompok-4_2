@@ -51,6 +51,7 @@ Harga setelah diskon: 4750.0
 Dokumentasi Teknis (flowchart):
 
 flowchart TD
+```mermaid
     A([Mulai]) --> B[/masukkan harga awal/]
     B --> C[/Masukkan persentase diskon/]
 
@@ -59,7 +60,7 @@ flowchart TD
 
     E --> F[/Cetak hasil perhitungan/]
     F --> G([Selesai])
-
+```
 Daftar Kontributor:
 
 | Nama                                | NIM           | Link akun                      |

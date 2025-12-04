@@ -48,4 +48,23 @@ Potongan Harga : 250.0
 
 Harga setelah diskon: 4750.0
 
+Dokumentasi Teknis (flowchart):
+
+flowchart TD
+    A([Mulai]) --> B[/masukkan harga awal/]
+    B --> C[/Masukkan persentase diskon/]
+
+    C --> D[Hitung potongan harga]
+    D --> E[Hitung harga akhir]
+
+    E --> F[/Cetak hasil perhitungan/]
+    F --> G([Selesai])
+
+Daftar Kontributor:
+
+| Nama                                | NIM           | Link akun                      |
+| ----------------------------------- | ------------- | ------------------------------ |
+| Johannes Dwayne Alfacaesar Talahatu | 250211060062  | https://github.com/wayne072177 |
+| Miracle Arnoldy                     | 250211060068  | https://github.com/Arxd142     |
+| Keycia Manarisip                    | 250211060078  | https://github.com/cheriikei   |
 

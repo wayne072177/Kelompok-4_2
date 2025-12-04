@@ -27,6 +27,7 @@ Buka folder yang sudah di install sebelumnya Bernama Kelompok-4_2 di Visual Stud
 Ketik "python main.py" pada terminal, dan akan muncul menu ini:
 
 Masukkan harga awal: 5000
+
 Masukkan diskon   : 5
 
 === HASIL PERHITUNGAN DISKON ===

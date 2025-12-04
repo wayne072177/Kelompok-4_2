@@ -25,3 +25,14 @@ Panduan Menjalankan:
 Buka folder yang sudah di install sebelumnya Bernama Kelompok-4_2 di Visual Studio Code
 
 Ketik "python main.py" pada terminal, dan akan muncul menu ini:
+
+Masukkan harga awal: 5000
+Masukkan diskon   : 5
+
+=== HASIL PERHITUNGAN DISKON ===
+Harga Awal : 5000.0
+Diskon     : 5.0%
+Potongan Harga : 250.0
+Harga setelah diskon: 4750.0
+
+Nanti setelah itu akan muncul hasil diskonya.

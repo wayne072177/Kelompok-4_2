@@ -26,9 +26,17 @@ Buka folder yang sudah di install sebelumnya Bernama Kelompok-4_2 di Visual Stud
 
 Ketik "python main.py" pada terminal, dan akan muncul menu ini:
 
+"Masukkan harga awal:"
+
+lalu ketik pada terminal angka/harga awal yang ingin di masukkan, Setelah tekan enter lalu akan muncul menu:
+
+"Masukkan diskon   :"
+
+Setelah memasukkan diskon selanjutkan akan muncul hasil potongan harga dari diskonnya. Contoh:
+
 Masukkan harga awal: 5000
 
-Masukkan diskon   : 5
+Masukkan diskon : 5
 
 === HASIL PERHITUNGAN DISKON ===
 
@@ -40,4 +48,4 @@ Potongan Harga : 250.0
 
 Harga setelah diskon: 4750.0
 
-Nanti setelah itu akan muncul hasil diskonya.
+

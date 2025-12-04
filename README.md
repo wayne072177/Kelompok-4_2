@@ -12,8 +12,12 @@ Panduan Instalasi :
 Pastikan Git sudah terinstall
 Buka Visual Studio Code
 Buka Folder tempat yang di inginkan untuk menyimpan repositori
-Buka Terminal pada VsCode
+Buka Terminal pada VsCode.
+
 kemudian ketik "git clone https://github.com/wayne072177/Kelompok-4_2" di terminal.
+
 Panduan Menjalankan:
+
 Buka folder yang sudah di install sebelumnya Bernama kelompok-3-pemrograman di Visual Studio Code
+
 Ketik "python main.py" pada terminal, dan akan muncul menu ini:

@@ -22,6 +22,6 @@ kemudian ketik "git clone https://github.com/wayne072177/Kelompok-4_2" di termin
 
 Panduan Menjalankan:
 
-Buka folder yang sudah di install sebelumnya Bernama kelompok-3-pemrograman di Visual Studio Code
+Buka folder yang sudah di install sebelumnya Bernama Kelompok-4_2 di Visual Studio Code
 
 Ketik "python main.py" pada terminal, dan akan muncul menu ini:
